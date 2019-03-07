@@ -21,14 +21,14 @@ Another feature is administator's feature which can only access by their institu
 to public access.
 
 ## Instruction Script
-1.  Find "Lapangan Voly" \
+1.  Find "Lapangan Voly" 
 2.  Find "Konstruksi Jalan Paving Baru (tbl. 6 cm) Lebar 6 m dengan Saluran 60/80 dengan cover (Satu Sisi)" \
-3.  Find  Lowest "Anggaran Platform" \
-4.  Find  Highest "Anggaran Platform" \
+3.  Find  Lowest "Anggaran Platform" 
+4.  Find  Highest "Anggaran Platform" 
 5.  Try to search in Filter with detail data Kecamatan:Kenjeran ,Kelurahan :Tambak Wedi, Tipe:Fisik, Pekerjaan: Sumur kebakaran, 
-    Dinas: Dinas Kebakaran \
-6.  Try to Login ,then add "Usulan Kota" \
-7.  Try to edit "Usulan" that had been inserted \
+    Dinas: Dinas Kebakaran 
+6.  Try to Login ,then add "Usulan Kota" 
+7.  Try to edit "Usulan" that had been inserted 
 8.  Try to delete "Usulan" that had been inserted
 
 ## User Description
