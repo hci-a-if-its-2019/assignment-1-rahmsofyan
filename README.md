@@ -140,7 +140,7 @@ User  :Interviewee
 ### Flow Model
 ![Musrenbang_flow](assets/flow_model.png)
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+![Musrenbang_social](assets/social_model.png)
 ## Do's and Don't's
 ### Do
   >>Start
