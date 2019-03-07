@@ -132,11 +132,11 @@ User  :Interviewee
 ```
 ## Models and Annotations
 ### Artifact Model
-![Musrenbang_Artifact_1](assets/Artifact_1.PNG)\
-![Musrenbang_Artifact_2](assets/Artifact_2.PNG)\
-![Musrenbang_Artifact_3](assets/Artifact_3.PNG)\
-![Musrenbang_Artifact_4](assets/Artifact_4.PNG)\
-![Musrenbang_Artifact_5](assets/Artifact_5.PNG)
+![Musrenbang_Artifact_1](assets/Artifact_1.png)\
+![Musrenbang_Artifact_2](assets/Artifact_2.png)\
+![Musrenbang_Artifact_3](assets/Artifact_3.png)\
+![Musrenbang_Artifact_4](assets/Artifact_4.png)\
+![Musrenbang_Artifact_5](assets/Artifact_5.png)
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
