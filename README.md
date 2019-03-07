@@ -143,7 +143,13 @@ User  :Interviewee
 ![Musrenbang_social](assets/social_model.png)
 ## Do's and Don't's
 ### Do
-  >>Start
+  1. Give sorting feature to order "Anggaran Platform"
+  1. Medium name lenght,and pagination in table
+  1. prominent design for delete button
+  1. Make Search menu running well
 ### Dont
-  >>Done
+  1. Dont place login page in same page with public landing page
+  1. Dont place direct download guidelines in same location with navigation menu
+  1. Dont place different context form in same page
+ 
   
