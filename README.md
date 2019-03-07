@@ -1,15 +1,15 @@
 # Contextual Inquiry and Analysis
 
 ### Outline 
-  - [Musrenbang2019 Description](#Musrenbang2019-Description)
-  - [Instruction Script](#instruction-script)
-  - [User Description](#user-description)
-  - [Transcript](#transcript)
-  - [Models and Annotations](#models-and-annotations)
+  + [Musrenbang2019 Description](#Musrenbang2019-Description)
+  + [Instruction Script](#instruction-script)
+  + [User Description](#user-description)
+  + [Transcript](#transcript)
+  + [Models and Annotations](#models-and-annotations)
       - [Artifact Model](#artifact-model)
       - [Flow Model](#flow-model)
       - [Cultural Model](#cultural-model)
-  - [Do's and Don't's](#dos-and-donts)
+  + [Do's and Don't's](#dos-and-donts)
 <br>
 
 ## Musrenbang2019 Description
@@ -22,21 +22,21 @@ to public access.
 
 ## Instruction Script
 1.  Find "Lapangan Voly" 
-2.  Find "Konstruksi Jalan Paving Baru (tbl. 6 cm) Lebar 6 m dengan Saluran 60/80 dengan cover (Satu Sisi)" \
-3.  Find  Lowest "Anggaran Platform" 
-4.  Find  Highest "Anggaran Platform" 
-5.  Try to search in Filter with detail data Kecamatan:Kenjeran ,Kelurahan :Tambak Wedi, Tipe:Fisik, Pekerjaan: Sumur kebakaran, 
+1.  Find "Konstruksi Jalan Paving Baru (tbl. 6 cm) Lebar 6 m dengan Saluran 60/80 dengan cover (Satu Sisi)" \
+1.  Find  Lowest "Anggaran Platform" 
+1.  Find  Highest "Anggaran Platform" 
+1.  Try to search in Filter with detail data Kecamatan:Kenjeran ,Kelurahan :Tambak Wedi, Tipe:Fisik, Pekerjaan: Sumur kebakaran, 
     Dinas: Dinas Kebakaran 
-6.  Try to Login ,then add "Usulan Kota" 
-7.  Try to edit "Usulan" that had been inserted 
-8.  Try to delete "Usulan" that had been inserted
+1.  Try to Login ,then add "Usulan Kota" 
+1.  Try to edit "Usulan" that had been inserted 
+1.  Try to delete "Usulan" that had been inserted
 
 ## User Description
 - The user is Female
-- 25 Years old
-- Madical education background
+- She was 25 Years old
+- She has Madical education background
 - Active in Internet,specially in social media
-- She Never visits sites with same Musrenbang2019 type before
+- She Never visits siters or has no experiences with same Musrenbang2019 site type before
 ## Transcript
 ```
 1.  Rahma :"Pernahkah mbak,mengunjungi sebuah situs yang menyediakan usulan ke sebuah pemerintahan kota"
