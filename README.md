@@ -22,7 +22,7 @@ Main of this site is display proposals in tables that consist of no,name of prop
 2.Try to Find "Paving" \
 3.Try to Find  Lowest "Anggaran Platform" \
 4.Try to Find  Lowest "Anggaran Platform" \
-5.Try to search data in Kecamatan:Kenjeran Pekerjaan: Sumur kebakaran Dinas:Dinas Kebakaran \
+5.Try to search data in Kecamatan:Kenjeran ,Kelurahan :Tambak Wedi, Tipe:Fisik, Pekerjaan: Sumur kebakaran, Dinas: Dinas Kebakaran \
 6.Try to add "Usulan" \
 7.Try to edit "Usulan" \
 8.Try to delete "Usulan" 
@@ -74,6 +74,8 @@ Female
 39. Rahma :"Oke,carine harga yang paling tinggi(sekarang)"
 40. User  :"Oke udah ketemu,struktur jembatan beton dengan panjang 6"
 41. Rahma  :"Selanjutnya carikan data yang berada di luar halaman ini"
+            (data sebagai berikut: kecamatanne:Kenjeran,Keluruhan:Tambak Wedi,Tipe fisik,Pekerjaan:Sumur kebakaran,Dinas:Dinas 
+            kebakaran)
 42. User   :"Kembali ke home lagi,ini yang search"
 42. Rahma  :"Coba aja,bisa gak"
 43. (User menekan tombol search,dan menunggu)
@@ -83,7 +85,7 @@ Female
 47. Rahma  :"Ini yang download mau"
 48. (User menghela napas)
 49. User   :"Sudah ,filter usulan"
-45. Rahma  :"Coba masukan kecamatanne:Kenjeran,Keluruhan:Tambak Wedi,Pekerjaan:Sumur kebakaran,Dinasse:Dinas kebakaran,carikne"
+45. Rahma  :"Coba Carikne"
 46. User   :"gak ada?"
 47. Rahma  :"Tanah gak ada datane,Rahma  :"Coba login dengan data ini"
 48. (Interviewer memberikan data untuk user login)
@@ -93,7 +95,7 @@ Female
 52. User    :"Disini tho"
 53. Rahma   :"Coba masukan ini ,usulannya : Test website user,Dinas :Pendidikan,habis itu simpan"
 54. (User menyimpan file)
-55. Rahma  :"Terus hapus,bentar edit dulu,ganti usulannya :Test Website admin"
+55. Rahma  :"Terus hapus,ehh bentar edit dulu,ganti usulannya :Test Website admin"
 56. User   :"Sudah" 
 57. Rahma  :"Terus hapus,ini"
 56. User   :"Terus hapus?,sing maeng to?"
@@ -101,7 +103,7 @@ Female
 57. Rahma  :"Iya,Untung ra salah hapus,seneni wong ngko"
 59. User   :"Ora yo,iki tho"
 60. (User Menghapus data)
-61. Rahma  :"Udah kehapus?"
+61. Rahma  :"Iya,udah kehapus?"
 62. User   :"Udah"
 63. Rahma  :"Bar wi logout"
 64. User   :"Udah"
