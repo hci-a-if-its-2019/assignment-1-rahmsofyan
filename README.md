@@ -18,14 +18,14 @@ city goverment of Surabaya ,and maintenance by this local institution.
 Proposals which will discuss in that forum is from surabaya people. They can watching over about all proposals that had been submitted to goverment , and keep their eye upon their proposal actualization.
 Main of this site is display proposals in tables that consist of no,name of proposals "usulan fisik/non fisik" ,budget "Plafon Anggaran", unit "satuan". Another feature is administator's feature which can only access by their institution  team.
 ## Instruction Script
-1.Try to Find "Lapangan Voly"
-2.Try to Find "Paving"
-3.Try to Find  Lowest "Anggaran Platform"
-4.Try to Find  Lowest "Anggaran Platform"
-5.Try to search data in Kecamatan:Kenjeran Pekerjaan: Sumur kebakaran Dinas:Dinas Kebakaran
-6.Try to add "Usulan"
-7.Try to edit "Usulan"
-8.Try to delete "Usulan"
+1.Try to Find "Lapangan Voly"\n
+2.Try to Find "Paving"\n
+3.Try to Find  Lowest "Anggaran Platform"\n
+4.Try to Find  Lowest "Anggaran Platform"\n
+5.Try to search data in Kecamatan:Kenjeran Pekerjaan: Sumur kebakaran Dinas:Dinas Kebakaran\n
+6.Try to add "Usulan"\n
+7.Try to edit "Usulan"\n
+8.Try to delete "Usulan"\n
 
 ## User Description
 Female
