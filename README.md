@@ -138,7 +138,7 @@ User  :Interviewee
 ![Musrenbang_Artifact_4](assets/Artifact_4.png)\
 ![Musrenbang_Artifact_5](assets/Artifact_5.png)
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+![Musrenbang_flow](assets/flow_model.png)
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
 ## Do's and Don't's
