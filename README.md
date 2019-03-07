@@ -25,7 +25,7 @@ Main of this site is display proposals in tables that consist of no,name of prop
 5.Try to search data in Kecamatan:Kenjeran Pekerjaan: Sumur kebakaran Dinas:Dinas Kebakaran \
 6.Try to add "Usulan" \
 7.Try to edit "Usulan" \
-8.Try to delete "Usulan" \
+8.Try to delete "Usulan" 
 
 ## User Description
 Female
@@ -38,7 +38,7 @@ Female
 5.  Rahma :"Pertanyaan selanjutnya,jika sebuah daftar usulan ditampilkan ke khalayak umum,yang mana usulan tersebut yang 
             sebelumnya lebih padat atau lengkap,dalam masing-masing usulan tersebut yang harus ditampilkan atau ringkasnya apa 
             saja,yang perlu ditampilkan kembali"
-6.  User  :"Yang perlu disampaikan,dan yang perlu rencana biaya dari usulan tersebut"
+6.  User  :"Yang perlu disampaikan,judul dan yang perlu rencana biaya dari usulan tersebut"
 7.  (mulai membuka website Musrenbang)
 8.  Rahma :"Pertama temukan usulan lapangan voly,tunggu"
 9.  User  :"username?"
