@@ -9,7 +9,7 @@
       - [Artifact Model](#artifact-model)
       - [Flow Model](#flow-model)
       - [Cultural Model](#cultural-model)
-  - [Do's and Don't's](#dos-and-donts)
+  - [Do's and Don't's](#do's-and-dont's)
 <br>
 
 ## Musrenbang2019 Description
