@@ -1,7 +1,7 @@
 # Contextual Inquiry and Analysis
 
 ### Outline 
-  - [Musrenbang Description](#Musrenbang2019-Description)
+  - [Musrenbang2019 Description](#Musrenbang2019-Description)
   - [Instruction Script](#instruction-script)
   - [User Description](#user-description)
   - [Transcript](#transcript)
@@ -13,17 +13,18 @@
 <br>
 
 ## Musrenbang2019 Description
-Musrenbang2019 ,site which display list subimitted proposal for development planning discussion by
-city goverment of Surabaya ,and maintenance by this local institution.
+[Musrenbang_Screenshots](assets/main_site.PNG)
+[Musrenbang2019](https://bappeko.surabaya.go.id/musrenbang2019) ,site which display list subimitted proposal for development planning discussion by City Goverment of Surabaya ,and maintenance by this local institution.
 Proposals which will discuss in that forum is from surabaya people. They can watching over about all proposals that had been submitted to goverment , and keep their eye upon their proposal actualization.
-Main of this site is display proposals in tables that consist of no,name of proposals "usulan fisik/non fisik" ,budget "Plafon Anggaran", unit "satuan". Another feature is administator's feature which can only access by their institution  team.
+Main of this site is display proposals in table that consist of no,name of proposals "Usulan fisik" ,budget "Plafon Anggaran", unit "satuan".This site can filter proposals by "Kecematan","Kelurahan",Type (Fisik or Non Fisik),"Dinas","Pekerjaan.
+Another feature is administator's feature which can only access by their institution team.
 ## Instruction Script
 1.Try to Find "Lapangan Voly" \
 2.Try to Find "Paving" \
 3.Try to Find  Lowest "Anggaran Platform" \
 4.Try to Find  Lowest "Anggaran Platform" \
 5.Try to search data in Kecamatan:Kenjeran ,Kelurahan :Tambak Wedi, Tipe:Fisik, Pekerjaan: Sumur kebakaran, Dinas: Dinas Kebakaran \
-6.Try to add "Usulan" \
+6.Try to Login ,then add "Usulan Kota" \
 7.Try to edit "Usulan" \
 8.Try to delete "Usulan" 
 
