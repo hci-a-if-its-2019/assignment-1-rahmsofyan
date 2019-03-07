@@ -39,6 +39,8 @@ to public access.
 - She Never visits siters or has no experiences with same Musrenbang2019 site type before
 ## Transcript
 ```
+Rahma :Interviewer
+User  :Interviewee
 1.  Rahma :"Pernahkah mbak,mengunjungi sebuah situs yang menyediakan usulan ke sebuah pemerintahan kota"
 2.  User  :"Belum pernah"
 3.  Rahma :"Seberapa pentingkah daftar usulan tersebut diketahui"
@@ -123,10 +125,10 @@ to public access.
 76. User   :"Udah"
 77. Rahma  :"Bar wi logout"
 78. User   :"Log out e iki ki"
-(User melakukan log out)
-79. User  :"Udah"
-80. Rahma  :"Terima kasih mbak untuk bantuannya"
-81. User   :"Ya"
+79. (User melakukan log out)
+80. User  :"Udah"
+81. Rahma  :"Terima kasih mbak untuk bantuannya"
+82. User   :"Ya"
 ```
 ## Models and Annotations
 ### Artifact Model
