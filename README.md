@@ -152,4 +152,13 @@ User  :Interviewee
   1. Dont place direct download guidelines in same location with navigation menu
   1. Dont place different context form in same page
  
+
+# Remarks
+> * Thanks for working hard completing this assignment, very thoughtful report, pretty well done!
+> * In this assignment report, you're able to show us where are the bad UIs and what are their evidences based on the CI's `Transcript`.
+> * All the problems (breakdowns on the `Models`) and the proposed solutions (`Do's and Don't's`) do make senses, except for the fourth `Do's` which sounds too general and like more related to functionality rather than UI.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 1            | 34               | 0               | 94                 | 80,5       | 91,3  |
   
